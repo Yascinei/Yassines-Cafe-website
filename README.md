@@ -1,2 +1,23 @@
-# Yassines-Cafe-website
-Modern responsive café website with clean UI and contact form functionality.
+# Yassine's Cafe Website ☕
+
+A modern, fully responsive café website built using HTML, CSS, and JavaScript.
+
+## 🚀 Features
+- Responsive design (mobile & desktop)
+- Smooth scrolling navigation
+- Contact form integration
+- Clean and modern UI
+- Deployed on Netlify
+
+## 🛠 Technologies Used
+- HTML5
+- CSS3
+- JavaScript
+
+## 🌍 Live Demo
+https://yassine-cafe.netlify.app/
+
+---
+
+### Author
+Yassine Nghima
