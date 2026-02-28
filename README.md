@@ -18,7 +18,7 @@ A modern, fully responsive café website built using HTML, CSS, and JavaScript.
 https://yassine-cafe.netlify.app/
 
 ---
-![Preview](screenshot.png)
+![Preview](Screenshot_2026-02-27-21-47-43-722_com.android.chrome.jpg)
 
 ### Author
 Yassine Nghima
